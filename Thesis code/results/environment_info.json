@@ -1,0 +1,8 @@
+{
+  "platform": "Windows-10-10.0.26100-SP0",
+  "python_version": "3.11.4",
+  "processor": "Intel64 Family 6 Model 141 Stepping 1, GenuineIntel",
+  "total_ram_gb": 15.73,
+  "logical_cores": 12,
+  "physical_cores": 6
+}
